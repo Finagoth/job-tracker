@@ -4,7 +4,7 @@ Gestor de candidaturas de emprego — acompanhe todas as vagas para as quais voc
 
 ## 🔗 Demo
 
-[job-tracker-seu-usuario.vercel.app](https://job-tracker.vercel.app) ← (atualizar após o deploy)
+https://job-tracker-rho-roan.vercel.app/login
 
 ## ✨ Funcionalidades
 
