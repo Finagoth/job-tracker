@@ -6,6 +6,14 @@ Gestor de candidaturas de emprego — acompanhe todas as vagas para as quais voc
 
 https://job-tracker-rho-roan.vercel.app/login
 
+## 📸 Preview
+
+<img width="1919" height="920" alt="image" src="https://github.com/user-attachments/assets/5d1ebafe-1d17-4b65-866d-f03467167d2e" />
+
+<img width="1919" height="919" alt="image" src="https://github.com/user-attachments/assets/13a5e01e-5e1a-47cb-b782-a5048445023b" />
+
+<img width="1919" height="917" alt="image" src="https://github.com/user-attachments/assets/754c8ed3-2b45-4a0f-9b86-41146c6f57bf" />
+
 ## ✨ Funcionalidades
 
 - **Autenticação** — cadastro, login e logout com persistência em localStorage
